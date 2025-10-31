@@ -1,0 +1,1 @@
+The Titanic dataset EDA involves analyzing passenger data to find patterns influencing survival. It includes data cleaning, handling missing values, and visualizing key features like age, gender, and class. These insights guide building models to predict survival chances.
